@@ -1,10 +1,10 @@
 # Traffic Jam Busters
 ## Transportation and Traffic Congestion Analysis
 
-What are the main causes of traffic congestion? Can we predict traffic congestion?
+What are the main causes of traffic congestion? Can I predict traffic congestion? Can I optimize my commute for time and cost?
 
 ### Objective
-To analyze traffic congestion patterns in a specific city and identify factors contributing to congestion. Additionally, to develop predictive models for traffic congestion based on historical data.
+To analyze traffic congestion patterns in Washington, D.C metro area and identify factors contributing to congestion. Additionally, to develop predictive models for traffic congestion based on historical data.
 ### Project Plan
 #### Problem Definition and Data Collection
 * Define the scope of the project, including the target city or area.
